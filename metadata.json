@@ -1,0 +1,6 @@
+{
+  "name": "JoJo OS",
+  "description": "A highly secure, elegant, minimalist desktop operating system designed for Musawo Joan, featuring client-side zero-knowledge encryption, a prayer and shift scheduler, and a private medical-devotional AI companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
